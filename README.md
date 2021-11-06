@@ -5,4 +5,3 @@ tool to encode messages not much else to say
 
 Tab 1 to encode, Tab 2 to decode 
 
-BETAs for all my projects here https://www.ryanclemmer.com/Projects/
